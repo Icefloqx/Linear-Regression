@@ -23,7 +23,7 @@ The dataset contains information such as:
 - 'mileage', 'engine', 'max_power', 'seats', 'car_age'
 
 
-## Technologies Used
+## Technologies Used]
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Regression)
 - Jupyter Notebook
 - Git & GitHub
@@ -33,6 +33,4 @@ The dataset contains information such as:
 - Higher engine power and max power are strongly correlated with higher prices.  
 - Mileage is negatively correlated with engine size.  
 - Maruti cars appear most frequently in the dataset.  
-- Diesel cars generally have higher selling prices compared to Petrol or LPG. 
-   git clone https://github.com/your-username/car-price-analysis.git
-   cd car-price-analysis
+- Diesel cars generally have higher selling prices compared to Petrol or LPG.
