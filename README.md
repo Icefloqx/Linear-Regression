@@ -23,7 +23,7 @@ The dataset contains information such as:
 - 'mileage', 'engine', 'max_power', 'seats', 'car_age'
 
 
-## Technologies Used]
+## Technologies Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Regression)
 - Jupyter Notebook
 - Git & GitHub
